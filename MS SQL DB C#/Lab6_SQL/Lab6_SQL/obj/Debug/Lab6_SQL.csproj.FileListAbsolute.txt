@@ -1,0 +1,9 @@
+C:\Users\Всеволод\source\repos\Lab6_SQL\Lab6_SQL\bin\Debug\Lab6_SQL.exe.config
+C:\Users\Всеволод\source\repos\Lab6_SQL\Lab6_SQL\bin\Debug\Lab6_SQL.exe
+C:\Users\Всеволод\source\repos\Lab6_SQL\Lab6_SQL\bin\Debug\Lab6_SQL.pdb
+C:\Users\Всеволод\source\repos\Lab6_SQL\Lab6_SQL\obj\Debug\Lab6_SQL.Form1.resources
+C:\Users\Всеволод\source\repos\Lab6_SQL\Lab6_SQL\obj\Debug\Lab6_SQL.Properties.Resources.resources
+C:\Users\Всеволод\source\repos\Lab6_SQL\Lab6_SQL\obj\Debug\Lab6_SQL.csproj.GenerateResource.cache
+C:\Users\Всеволод\source\repos\Lab6_SQL\Lab6_SQL\obj\Debug\Lab6_SQL.exe
+C:\Users\Всеволод\source\repos\Lab6_SQL\Lab6_SQL\obj\Debug\Lab6_SQL.pdb
+C:\Users\Всеволод\source\repos\Lab6_SQL\Lab6_SQL\obj\Debug\Lab6_SQL.csprojAssemblyReference.cache
