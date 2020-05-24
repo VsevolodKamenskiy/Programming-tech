@@ -1,0 +1,3 @@
+--insert INTO Chain_Cafes (ID,Name,Amount,Date,Invoice,Vegetarian,Wi_Fi,Time,Salary)
+--values(5,'Shokoladnitsa',320,'2008-04-19',550,1,1,'8:00-23:00',27500)
+Select AVG(Salary) from Chain_Cafes
